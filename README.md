@@ -16,8 +16,11 @@ I am an Architect (FADU-UBA) with 20 years of experience in the construction ind
 
 ## 🏡 Private Residential Projects
 A selection of freelance high-end residential works focusing on design and execution:
-* **Casa Atahona** | **Casa Vázquez** | **Casa Los Flores**
-* **Casa Clodomira** | **Casa Saint Germes**
+* **Casa Atahona**
+* **Casa Vázquez**
+* **Casa Los Flores**
+* **Casa Clodomira**
+* **Casa Saint Germes**
 * [View Gallery & Details](./projects/private-works.md)
 
 ---

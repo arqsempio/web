@@ -41,4 +41,23 @@ Innovative tools developed to optimize the construction and finance ecosystem:
 * [View Developments](./projects/developments.md)
 
 ---
+
+# 🛠️ Technical Toolkit
+
+### **Development & Data Analysis**
+* **Languages & Scripting:** Python (Automation & Data Processing), SQL (Database Management).
+* **GIS & Mapping:** Advanced use of Geographic Information Systems for urban data visualization and territorial analysis.
+* **Web Technologies:** Experience managing and developing digital platforms (as seen in Citygismap and Guía Sempio).
+
+### **Architecture & Design (BIM/CAD)**
+* **Professional Suites:** Advanced mastery of AutoCAD, Revit (BIM), and 3D Modeling software.
+* **Visualization:** Technical rendering and architectural storytelling through digital media.
+* **Design Tools:** Adobe Creative Suite (Photoshop, Illustrator) for institutional presentations and urban projects.
+
+### **Management & Productivity**
+* **Project Management:** Expert use of MS Project, Trello, and specialized ERPs for Construction Management (CDG).
+* **Collaboration:** Version control with Git/GitHub and collaborative cloud-based workflows.
+* **Advanced Office:** Expert-level Excel for budget tracking, cost analysis, and financial reporting.
+
+---
 📩 **Contact:** [arqsempio@gmail.com] | [https://www.linkedin.com/in/arqsempio]

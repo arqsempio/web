@@ -1,13 +1,16 @@
-# Estadio Único Santiago del Estero
-**Role:** Project Control & Management (CDG) | **Size:** 28,000 m²
+# Estadio Único Madre de Ciudades
+**International Sports Infrastructure | 28,000 m²**
 
-### Overview
-Supervision and management of a high-complexity sports infrastructure project.
+![Estadio Unico Photo](../assets/images/estadio-unico.jpg)
 
-### Key Responsibilities
-* **Quality Control:** Monitored construction standards and material usage.
-* **Documentation:** Managed blueprints and technical updates during execution.
-* **Stakeholder Coordination:** Acted as a liaison between contractors and government authorities.
+### Project Overview
+A landmark project in Santiago del Estero, this FIFA-grade stadium was designed to meet the highest international standards for sports and entertainment.
 
-> [!TIP]
-> **Highlight:** Successfully managed the technical documentation flow to ensure a 28,000 m² execution without structural delays.
+### Role: Construction Management & Control (CDG)
+Working with **MIJOVI SRL**, I was responsible for the analytical management and technical oversight of this large-scale project.
+
+**Key Contributions:**
+* **Technical Analysis:** Evaluated complex structural systems and specialized construction materials.
+* **Management & Control:** Monitored project timelines and budget execution to ensure compliance with provincial and international regulations.
+* **Document Control:** Managed a high volume of technical blueprints and specifications, ensuring seamless communication between engineering teams and on-site execution.
+* **Quality Assurance:** Oversaw the application of high-tech finishes and sports-specific infrastructure (lighting, turf management, and safety protocols).

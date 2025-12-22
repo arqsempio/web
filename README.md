@@ -1,6 +1,4 @@
-# Architect, Project Manager & Developer
-
-I am an Architect (FADU-UBA) with 20 years of experience in the construction industry. My profile combines a solid background in **Project Management (CDG)** for large-scale infrastructure with a strong **Developer** mindset. Due to my extensive experience with advanced software and application management, I bridge the gap between physical construction and digital solutions.
+I am an Architect (FADU-UBA) with 20 years of experience in the construction industry. My profile combines a solid background in **Project Management** for large-scale infrastructure with a strong **Developer** mindset. Due to my extensive experience with advanced software and application management, I bridge the gap between physical construction and digital solutions.
 
 ---
 
@@ -8,17 +6,17 @@ I am an Architect (FADU-UBA) with 20 years of experience in the construction ind
 ### [Estadio Único Madre de Ciudades](./projects/estadio-unico.md)
 * **28,000 m²** | Analysis and Construction Management (CDG).
 
-### [Torres Ministerios (Justice & Production)](./projects/torres-ministerios.md)
+### [Torres Ministerios de Justicia & Producción)](./projects/torres-ministerios.md)
 * **14,700 m²** | Technical Supervision and Documentation Coordination.
 
-### [CIS Termas de Río Hondo](./projects/cis-termas.md)
+### [Hospital Termas de Río Hondo](./projects/cis-termas.md)
 * **5,700 m²** | Integrated Health Center Management.
 
 ---
 
 ## 🏡 Private Residential Projects
 A selection of freelance high-end residential works focusing on design and execution:
-* **Casa Atahona** | **Casa Vazquez** | **Casa Los Flores**
+* **Casa Atahona** | **Casa Vázquez** | **Casa Los Flores**
 * **Casa Clodomira** | **Casa Saint Germes**
 * [View Gallery & Details](./projects/private-works.md)
 

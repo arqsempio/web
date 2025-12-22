@@ -1,26 +1,44 @@
-# Juan Manuel Sempio | Architect / Urban Planner / Developer
+# Architect, Project Manager & Developer
 
-Architect (FADU-UBA) with 20 years of experience in the construction industry. Specialized in **Construction Management (CDG)**, **Urban Planning**, and **Project Coordination** for large-scale infrastructure.
+I am an Architect (FADU-UBA) with 20 years of experience in the construction industry. My profile combines a solid background in **Project Management (CDG)** for large-scale infrastructure with a strong **Developer** mindset. Due to my extensive experience with advanced software and application management, I bridge the gap between physical construction and digital solutions.
 
-## 🛠 Professional Expertise
+---
 
-### **Project Manager | Americasa Co. (Remote)**
-* Managed comprehensive documentation, technical specifications, and blueprints for civil works.
-* Coordinated construction permits, material procurement, and on-site personnel management.
+## 🏛️ High-Complexity Infrastructure
+### [Estadio Único Madre de Ciudades](./projects/estadio-unico.md)
+* **28,000 m²** | Analysis and Construction Management (CDG).
 
-### **Construction Management & Inspection | Public Works**
-* **Major Projects:** Led the management and control of high-complexity works including:
-    * **Estadio Único Santiago del Estero (28,000 m²):** Control and management.
-    * **Torres Ministerios (14,700 m²):** Supervision and technical coordination.
-    * **CIS Termas de Río Hondo (5,700 m²):** Integrated health center management.
-* **Public Sector:** Expertise in construction tenders, urban planning, and municipal inspections.
+### [Torres Ministerios (Justice & Production)](./projects/torres-ministerios.md)
+* **14,700 m²** | Technical Supervision and Documentation Coordination.
 
-## 🚀 Key Skills
-* **Project Management:** Resource optimization, scheduling, and budget control.
-* **Technical:** Construction techniques, material specifications, and regulatory compliance.
-* **Tools:** AutoCAD, Project Management Software, Construction Documentation.
+### [CIS Termas de Río Hondo](./projects/cis-termas.md)
+* **5,700 m²** | Integrated Health Center Management.
 
-## 📂 Featured Projects
-* [Estadio Único Santiago del Estero](./projects/estadio-unico.md) - Large scale infrastructure.
-* [Torres Ministerios](./projects/torres-ministerios.md) - Institutional buildings.
-* [Americasa Co. Portfolio](./projects/americasa-co.md) - Residential renovations.
+---
+
+## 🏡 Private Residential Projects
+A selection of freelance high-end residential works focusing on design and execution:
+* **Casa Atahona** | **Casa Vazquez** | **Casa Los Flores**
+* **Casa Clodomira** | **Casa Saint Germes**
+* [View Gallery & Details](./projects/private-works.md)
+
+---
+
+## 🏙️ Urban Planning & Public Spaces
+Strategic urban interventions in Santiago del Estero:
+* **Bicisendas SDE:** Bicycle lane network project.
+* **Paseo Quinzio & Paseo Los Flores:** Pedestrian-centric urban walks.
+* **Plaza Saint Germes:** Community space design and renovation.
+* [View Projects](./projects/urban-planning.md)
+
+---
+
+## 💻 Digital Developments & Tech
+Innovative tools developed to optimize the construction and finance ecosystem:
+* **Guía Sempio:** Information directory for construction suppliers and professionals.
+* **Citygismap:** Interactive GIS mapping for urban data visualization.
+* **Zuma Finanzas Compartidas:** Shared finance platform for collaborative projects.
+* [View Developments](./projects/developments.md)
+
+---
+📩 **Contact:** [arqsempio@gmail.com] | [https://www.linkedin.com/in/arqsempio]

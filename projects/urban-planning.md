@@ -2,7 +2,7 @@
 **Santiago del Estero Public Works**
 
 ### Bicisendas SDE
-![Map/Photo](../assets/images/bicisendas.jpg)
+![Map/Photo](images/bicisendas.jpg)
 Projecting a sustainable mobility network for the city.
 
 ### Paseos & Squares

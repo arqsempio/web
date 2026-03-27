@@ -2,7 +2,7 @@
 
 As a developer, I create tools that solve real-world industry problems by combining technical precision with intuitive design.
 
-** 🛠️ Guia Sempio **
+**🛠️ Guia Sempio**
 
 The Construction Connection
 
@@ -10,7 +10,7 @@ The Construction Connection
 
 A comprehensive directory connecting construction professionals with specialized suppliers. It streamlines procurement and networking within the local building industry.
 
-** 🗺️ CityGisMap **
+**🗺️ CityGisMap**
 
 Urban Intelligence
 
@@ -18,7 +18,7 @@ Urban Intelligence
 
 A GIS-based map solution for urban planning and data analysis. Designed to help municipalities manage territories through georeferenced data and interactive visualization.
 
-** 💳 Zuma - Finanzas Compartidas **
+**💳 Zuma - Finanzas Compartidas**
 
 Collaborative Fintech
 

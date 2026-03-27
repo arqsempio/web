@@ -1,6 +1,8 @@
 # Private Residential Portfolio
 Custom homes designed and managed as a freelance professional.
 
+**Scope:** Architectural design, budget management, and on-site supervision.
+
 ### Featured Works:
 1. **Casa Atahona:** ![Photo](images/atahona.jpg)
 2. **Casa Vazquez:** ![Photo](images/vazquez.jpg)
@@ -9,4 +11,3 @@ Custom homes designed and managed as a freelance professional.
 5. **Casa Clodomira 2** ![Photo](images/clodomira2.jpg)
 6. **Casa Saint Germes** ![Photo](images/saintgermes.png)
 
-**Scope:** Architectural design, budget management, and on-site supervision.

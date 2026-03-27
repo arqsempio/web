@@ -10,7 +10,7 @@ I am an Architect (FADU-UBA) with 20 years of experience in the construction ind
 * **14,700 sqm**   | Technical Supervision and Documentation Coordination.
 
 ### [Hospital Termas de Río Hondo](./projects/cis-termas.md)
-* ** 5,700 sqm**   | Integrated Health Center Management.
+* **5,700 sqm**    | Integrated Health Center Management.
 
 ---
 

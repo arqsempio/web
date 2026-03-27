@@ -4,13 +4,13 @@ I am an Architect (FADU-UBA) with 20 years of experience in the construction ind
 
 ## 🏛️ High-Complexity Infrastructure
 ### [Estadio Único Madre de Ciudades](./projects/estadio-unico.md)
-* **28,000 m²** | Analysis and Construction Management (CDG).
+* **28,000 sqm** | Analysis and Construction Management (CDG).
 
 ### [Complejo Manuel Belgrano](./projects/torres-ministerios.md)
-* **14,700 m²** | Technical Supervision and Documentation Coordination.
+* **14,700 sqm** | Technical Supervision and Documentation Coordination.
 
 ### [Hospital Termas de Río Hondo](./projects/cis-termas.md)
-* **5,700 m²**  | Integrated Health Center Management.
+* **5,700 sqm**  | Integrated Health Center Management.
 
 ---
 

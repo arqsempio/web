@@ -4,7 +4,7 @@ As a developer, I create tools that solve real world industry problems.
 
 Guia Sempio
 
-<img src="semio-logo.jpeg" width="300" alt="Guia Sempio">
+<img src="sempio-logo.jpeg" width="300" alt="Guia Sempio">
 
 A comprehensive directory connecting construction professionals with specialized suppliers.
 

@@ -1,7 +1,7 @@
 # Estadio Único Madre de Ciudades
 **International Sports Infrastructure | 28,000 m²**
 
-![Estadio Unico Photo](../assets/images/estadio-unico.jpg)
+![Estadio Unico Photo](images/estadio-unico.jpg)
 
 ### Project Overview
 A landmark project in Santiago del Estero, this FIFA-grade stadium was designed to meet the highest international standards for sports and entertainment.

@@ -3,6 +3,7 @@
 
 ### Bicisendas SDE
 Projecting a sustainable mobility network for the city.
+
 ![Map/Photo](images/bicisendas.jpg)
 
 

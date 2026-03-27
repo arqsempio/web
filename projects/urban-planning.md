@@ -2,8 +2,9 @@
 **Santiago del Estero Public Works**
 
 ### Bicisendas SDE
-![Map/Photo](images/bicisendas.jpg)
 Projecting a sustainable mobility network for the city.
+![Map/Photo](images/bicisendas.jpg)
+
 
 ### Paseos & Squares
 * **Paseo Quinzio & Paseo Los Flores:** Urban revitalization through pedestrian paths.

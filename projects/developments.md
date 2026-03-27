@@ -1,4 +1,4 @@
-** Tech Developments
+# Tech Developments
 
 As a developer, I create tools that solve real-world industry problems by combining technical precision with intuitive design.
 

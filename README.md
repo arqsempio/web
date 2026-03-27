@@ -6,7 +6,7 @@ I am an Architect (FADU-UBA) with 20 years of experience in the construction ind
 ### [Estadio Único Madre de Ciudades](./projects/estadio-unico.md)
 * **28,000 m²** | Analysis and Construction Management (CDG).
 
-### [Complejo Manuel Belgrano (Justicia & Producción)](./projects/torres-ministerios.md)
+### [Complejo Manuel Belgrano](./projects/torres-ministerios.md)
 * **14,700 m²** | Technical Supervision and Documentation Coordination.
 
 ### [Hospital Termas de Río Hondo](./projects/cis-termas.md)

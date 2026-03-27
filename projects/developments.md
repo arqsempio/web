@@ -1,14 +1,21 @@
-# Tech Developments
-As a developer, I create tools that solve real-world industry problems.
+Tech Developments
 
-### Guía Sempio
-![Logo](sempio-logo.jpeg)
+As a developer, I create tools that solve real world industry problems.
+
+Guia Sempio
+
+<img src="semio-logo.jpeg" width="300" alt="Guia Sempio">
+
 A comprehensive directory connecting construction professionals with specialized suppliers.
 
-### Citygismap
-![Screenshot](citygis.jpeg)
-A GIS-based map solution for urban planning and data analysis.
+Citygismap
 
-### Zuma - Finanzas Compartidas
-![Logo](zuma-logo.jpeg)
-A fintech-oriented platform for managing shared finances in collaborative project environments.
+<img src="citygis.jpeg" width="300" alt="Citygismap">
+
+A GIS based map solution for urban planning and data analysis.
+
+Zuma - Finanzas Compartidas
+
+<img src="zuma-logo.jpeg" width="300" alt="Zuma - Finanzas Compartidas">
+
+A fintech oriented platform for managing shared finances in collaborative project environments.

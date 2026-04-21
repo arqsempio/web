@@ -16,10 +16,10 @@ I am an Architect (FADU-UBA) with 20 years of experience in the construction ind
 Mass Housing & Urban Expansion Projects
 31,300 sqm Total Built Area | Led progress tracking, site supervision, and task control across multiple large-scale provincial housing projects, ensuring strict adherence to timelines and material specifications. The portfolio encompasses 592 housing units across four major developments:
 
-Ampliación Villa del Carmen (240 units): 14,400 sqm.
-Barrio Aeropuerto (128 units): 7,700 sqm.
-Parque del Río (104 units): 5,600 sqm.
-Colonia Simbolar (120 modules): 3,600 sqm.
+* Ampliación Villa del Carmen (240 units): 14,400 sqm.
+* Barrio Aeropuerto (128 units): 7,700 sqm.
+* Parque del Río (104 units): 5,600 sqm.
+* Colonia Simbolar (120 modules): 3,600 sqm.
 
 ---
 

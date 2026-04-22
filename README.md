@@ -52,7 +52,7 @@ Innovative tools developed to optimize the construction and finance ecosystem:
 
 ---
 
-# 🛠️ Technical Toolkit
+## 🛠️ Technical Toolkit
 
 ### **Development & Data Analysis**
 * **Languages & Scripting:** Python (Automation & Data Processing), SQL (Database Management).

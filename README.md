@@ -2,6 +2,27 @@ I am an Architect (FADU-UBA) with 20 years of experience in the construction ind
 
 ---
 
+### 🌐 Territorial Digital Ecosytem — Municipality of Fernández
+Development and deployment of an integrated urban and civic modernization ecosystem. The project centralizes georeferenced data management while delivering accessible tools for the local community.
+
+*   **Interactive Urban Map:** An integrated platform for visualizing the new Building Code and urban zoning plans (Powered by CityGisMap).
+*   **Institutional Web Portal:** A citizen services portal for automated procedures and municipal transparency.
+*   **Mobile Applications:** Cross-platform mobile development built with React Native and Expo for real-time citizen interaction.
+
+📦 **Official Distribution:**
+*   [Download on Google Play Store](https://play.google.com/store/apps/details?id=io.kodular.municipalidadfernandezdev.Municipalidad_Fernandez)
+*   [Download on Apple App Store](https://apps.apple.com/app/municipalidad-de-fernandez/id6775617477)
+
+---
+
+## 🛠️ Tech Stack & Tools
+
+*   **Mobile & Web:** React Native, Expo Framework, WordPress Core, PHP, JavaScript.
+*   **GIS & Urban Planning:** QGIS, AutoCAD Map, CityGisMap, Leaflet.
+*   **DevOps & Project Controls:** GitHub, Sentry, Google Play Console, Apple Developer Program.
+
+📫 **Contact:** arqsempio@gmail.com
+
 ## 🏛️ High-Complexity Infrastructure
 **[Estadio Único Madre de Ciudades](./projects/estadio-unico.md)**
 28,000 sqm | Supervised all trades and in-house personnel, collaborating directly with the Project Manager and the Accounting Management Control Department. Developed and maintained comprehensive control dashboards to track construction progress and verify contractor certifications.

@@ -1,7 +1,7 @@
 I am an Architect (FADU-UBA) with 20 years of experience in the construction industry. My profile combines a solid background in **Project Management** for large-scale infrastructure with a strong **Developer** mindset. Due to my extensive experience with advanced software and application management, I bridge the gap between physical construction and digital solutions.
 
 ---
-
+## Software Engineering & Tech Ecosystems
 ### 🌐 Territorial Digital Ecosytem — Municipality of Fernández
 Development and deployment of an integrated urban and civic modernization ecosystem. The project centralizes georeferenced data management while delivering accessible tools for the local community.
 
@@ -10,8 +10,22 @@ Development and deployment of an integrated urban and civic modernization ecosys
 *   **Mobile Applications:** Cross-platform mobile development built with React Native and Expo for real-time citizen interaction.
 
 📦 **Official Distribution:**
+*   [Visit Official Landing Page](https://municipalidaddefernandez.gob.ar/descargar-app/)
 *   [Download on Google Play Store](https://play.google.com/store/apps/details?id=io.kodular.municipalidadfernandezdev.Municipalidad_Fernandez)
 *   [Download on Apple App Store](https://apps.apple.com/app/municipalidad-de-fernandez/id6775617477)
+
+---
+
+### 💳 Collaborative Financial Ecosystem — Zuma Finanzas Compartidas
+Architecture and development of a modern collaborative finance platform engineered to simplify expense sharing, split-bill tracking, and peer-to-peer balance settlement for teams and group environments.
+
+* **End-to-End Product & Design:** Conceived, designed, and developed from scratch (full UI/UX and front-end implementation), featuring an institutional landing page hosted on GitHub Pages.
+* **Mobile Application:** Cross-platform mobile client built with React Native and Expo for fluid real-time expense input, multi-currency support, and categorized group ledgers.
+* **Smart Balance Settlement Engine:** Automated debt simplification algorithm to minimize total transactions required across group members.
+
+📦 **Platform Links & Distribution:**
+*  [Visit Official Landing Page](https://arqsempio.github.io/zuma/)
+*  [Download on Google Play Store](https://play.google.com/store/apps/details?id=com.arqsempio.zuma)
 
 ---
 
@@ -23,6 +37,9 @@ Development and deployment of an integrated urban and civic modernization ecosys
 
 📫 **Contact:** arqsempio@gmail.com
 
+---
+
+## Architecture & Project Management
 ## 🏛️ High-Complexity Infrastructure
 **[Estadio Único Madre de Ciudades](./projects/estadio-unico.md)**
 28,000 sqm | Supervised all trades and in-house personnel, collaborating directly with the Project Manager and the Accounting Management Control Department. Developed and maintained comprehensive control dashboards to track construction progress and verify contractor certifications.

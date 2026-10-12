@@ -2,21 +2,23 @@ I am an Architect (FADU-UBA) with 20 years of experience in the construction ind
 
 ---
 ## Software Engineering & Tech Ecosystems
-### 🌐 Territorial Digital Ecosytem — Municipality of Fernández
+### 🌐 Civic Government & Public Administration App — Municipality of Fernández
 Development and deployment of an integrated urban and civic modernization ecosystem. The project centralizes georeferenced data management while delivering accessible tools for the local community.
 
-*   **Interactive Urban Map:** An integrated platform for visualizing the new Building Code and urban zoning plans (Powered by CityGisMap).
-*   **Institutional Web Portal:** A citizen services portal for automated procedures and municipal transparency.
-*   **Mobile Applications:** Cross-platform mobile development built with React Native and Expo for real-time citizen interaction.
+* **Interactive Urban Map:** An integrated platform for visualizing the new Building Code and urban zoning plans (Powered by CityGisMap).
+* **Citizen Services & Appointment Management:** Integrated module for online procedures, permit applications, and automated appointment scheduling for residents.
+* **Internal & Cross-Departmental Workflow Engine:** Back-office system for municipal offices to manage internal dossiers, route shared administrative procedures, and track cross-agency requests in real time.
+* **Institutional Web Portal:** A citizen services portal for automated procedures and municipal transparency.
+* **Mobile Applications:** Cross-platform mobile development built with React Native and Expo for real-time citizen interaction.
 
 📦 **Official Distribution:**
-*   [Visit Official Landing Page](https://municipalidaddefernandez.gob.ar/descargar-app/)
-*   [Download on Google Play Store](https://play.google.com/store/apps/details?id=io.kodular.municipalidadfernandezdev.Municipalidad_Fernandez)
-*   [Download on Apple App Store](https://apps.apple.com/app/municipalidad-de-fernandez/id6775617477)
+* [Visit Official Landing Page](https://municipalidaddefernandez.gob.ar/descargar-app/)
+* [Download on Google Play Store](https://play.google.com/store/apps/details?id=io.kodular.municipalidadfernandezdev.Municipalidad_Fernandez)
+* [Download on Apple App Store](https://apps.apple.com/app/municipalidad-de-fernandez/id6775617477)
 
 ---
 
-### 💳 Collaborative Financial Ecosystem — Zuma Finanzas Compartidas
+### 💳 Collaborative Financial App — Zuma Finanzas Compartidas
 Architecture and development of a modern collaborative finance platform engineered to simplify expense sharing, split-bill tracking, and peer-to-peer balance settlement for teams and group environments.
 
 * **End-to-End Product & Design:** Conceived, designed, and developed from scratch (full UI/UX and front-end implementation), featuring an institutional landing page hosted on GitHub Pages.
@@ -24,16 +26,16 @@ Architecture and development of a modern collaborative finance platform engineer
 * **Smart Balance Settlement Engine:** Automated debt simplification algorithm to minimize total transactions required across group members.
 
 📦 **Platform Links & Distribution:**
-*  [Visit Official Landing Page](https://arqsempio.github.io/zuma/)
-*  [Download on Google Play Store](https://play.google.com/store/apps/details?id=com.arqsempio.zuma)
+* [Visit Official Landing Page](https://arqsempio.github.io/zuma/)
+* [Download on Google Play Store](https://play.google.com/store/apps/details?id=com.arqsempio.zuma)
 
 ---
 
 ## 🛠️ Tech Stack & Tools
 
-*   **Mobile & Web:** React Native, Expo Framework, WordPress Core, PHP, JavaScript.
-*   **GIS & Urban Planning:** QGIS, AutoCAD Map, CityGisMap, Leaflet.
-*   **DevOps & Project Controls:** GitHub, Sentry, Google Play Console, Apple Developer Program.
+* **Mobile & Web:** React Native, Expo Framework, WordPress Core, PHP, JavaScript.
+* **GIS & Urban Planning:** QGIS, AutoCAD Map, CityGisMap, Leaflet.
+* **DevOps & Project Controls:** GitHub, Sentry, Google Play Console, Apple Developer Program.
 
 📫 **Contact:** arqsempio@gmail.com
 

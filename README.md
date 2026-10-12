@@ -5,7 +5,7 @@ I am an Architect (FADU-UBA) with 20 years of experience in the construction ind
 ### 🌐 Civic Government & Public Administration App — Municipality of Fernández
 Development and deployment of an integrated urban and civic modernization ecosystem. The project centralizes georeferenced data management while delivering accessible tools for the local community.
 
-* **Interactive Urban Map:** An integrated platform for visualizing the new Building Code and urban zoning plans (Powered by CityGisMap).
+* **Interactive Urban Map:** An integrated platform for visualizing the new Building Code and urban zoning plans (Powered by [CityGisMap](https://arqsempio.github.io/CityGisMap/).
 * **Citizen Services & Appointment Management:** Integrated module for online procedures, permit applications, and automated appointment scheduling for residents.
 * **Internal & Cross-Departmental Workflow Engine:** Back-office system for municipal offices to manage internal dossiers, route shared administrative procedures, and track cross-agency requests in real time.
 * **Institutional Web Portal:** A citizen services portal for automated procedures and municipal transparency.
